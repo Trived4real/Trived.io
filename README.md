@@ -1,2 +1,2 @@
 # Trived.io
-My Links
+[My Links](https://trived4real.github.io/Trived.io/)
